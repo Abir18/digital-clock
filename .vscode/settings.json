@@ -1,0 +1,9 @@
+{
+    "markdown.preview.fontSize": 24,
+    "[markdown]": {
+
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false
+    },
+    "liveServer.settings.port": 5501
+}
